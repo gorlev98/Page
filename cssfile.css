@@ -1,0 +1,176 @@
+.label{
+  position:absolute;
+  top:172px;
+  margin:0 36% 0 36%;
+  height: 200px;
+}
+.inputPart{
+  position:absolute;
+  top:340px;
+  margin:0 30% 0 30%;
+  width:550px;
+  height: 40px;
+  border: #bebebe solid 1px;
+}
+.inputClass{
+  margin: 2px;
+  border:none;
+  height:34px;
+  width: 470px;
+  right:50px;
+  font-size: 2em;
+  outline:none;
+}
+.inputButtonsBlock{
+  position: absolute;
+  top:0px;
+  height:46px;
+  width: 70px;
+  right: 0px;
+  margin: 2px;
+  border:none;
+  outline:none;
+}
+.labelKey{
+  position: absolute;
+  top:12px;
+  left:4px;
+}
+.labelFon{
+  position: absolute;
+  top:6px;
+  right:4px;
+}
+.buttonPart{
+  position:absolute;
+  margin:0 40% 0 40%;
+  height: 40px;
+  width:250px;
+  top:420px;
+}
+.buttonSearch{
+  position:absolute;
+  height:100%;
+  width:120px;
+  left:0px;
+  border:none;
+  background-color: #ebebeb;
+  color:grey;
+}
+.buttonSearch:hover{
+  border:1px solid grey;
+  color:black;
+}
+.buttonTry{
+  position:absolute;
+  height:100%;
+  width:120px;
+  right:0px;
+  border:none;
+  background-color: #ebebeb;
+  color:grey;
+}
+.buttonTry:hover{
+  border:1px solid grey;
+  color:black;
+}
+.info{
+  top:480px;
+  position:absolute;
+  margin:0 32% 0 32%;
+  height: 40px;
+  width:500px;
+  text-align: center;
+}
+a{
+  color: blue;
+}
+a:hover{
+  text-decoration: underline;
+}
+.topMenu{
+  position:absolute;
+  top:20px;
+  right:20px;
+  width:270px;
+  height:30px;
+}
+.topMenuMail{
+  position: absolute;
+  top:5px;
+  right:200px;
+}
+.topMenuPictures{
+  position: absolute;
+  top:5px;
+  right:130px;
+}
+text{
+  font-size:0.9em;
+}
+text:hover{
+  text-decoration: underline;
+}
+
+.topMenuApplications{
+  position:absolute;
+  top:5px;
+  right:80px;
+}
+
+.topMenuAccount{
+  position: absolute;
+  top:0px;
+  right:0px;
+  height:100%;
+  width:60px;
+  background-color: #3b6eff;
+  color:white;
+  border:none;
+}
+
+.bottomMenu{
+  position: absolute;
+  bottom:0px;
+  left:10px;
+  right: 10px;
+  height:80px;
+  background-color: #ebebeb;
+  color:gray;
+}
+.bottomUpMenu{
+  position: absolute;
+  bottom:30px;
+  height: 50px;
+  width:100%;
+  border-top: 1px solid #dcdcdc;
+  border-bottom: 1px solid #dcdcdc;
+}
+.bottomDownMenu{
+  position: absolute;
+  bottom:0px;
+  height: 30px;
+  width:100%;
+}
+.firstLineObject{
+  position:absolute;
+  top:10px;
+  left:20px;
+  font-size: 1.05em;
+}
+.firstObjectLeft{
+  position:absolute;
+  top:0px;
+  left:20px;
+}
+.firstObjectLeft:hover{
+  text-decoration: underline;
+}
+.firstObjectRight{
+  position:absolute;
+  top:0px;
+  right:20px;
+}
+.firstObjectRight:hover{
+  text-decoration: underline;
+}
